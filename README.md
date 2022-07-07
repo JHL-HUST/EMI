@@ -2,7 +2,7 @@
 
 This repository contains code to reproduce results from the paper:
 
-[Boosting Adversarial Attacks with Enhanced Momentum](https://arxiv.org/abs/2103.10609) (BMVC 2021)
+[Boosting Adversarial Transferability with Enhanced Momentum](https://arxiv.org/abs/2103.10609) (BMVC 2021)
 
 [Xiaosen Wang](https://xiaosen-wang.github.io/), Jiadong Lin, Han Hu, Jingdong Wang, Kun He
 
